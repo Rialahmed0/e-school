@@ -1,0 +1,99 @@
+.sing-in{
+    color: white;
+    background: #21b573;
+    border: none;
+    padding: 8px 14px;
+    border-radius: 20px
+}
+.header img{
+    width: 100%;
+}
+.bgc{
+    background-color: #f0fff0;
+}
+.container{
+    /* margin-bottom: 100px; */
+}
+.bimg img{ 
+    width: 100%;
+}
+.banner .b-que{
+    color: #fc551f;
+
+}
+.banner .b-color{
+    color: #21b573;
+}
+.banner .b-paragraph{
+    color: #717171;
+}
+
+.book-img{
+    width: 30%;
+}
+.book-img img{
+    width: 100%;
+    margin: 20px 77px;
+}
+.book-item{
+    box-shadow: lightgrey 5px 5px 21px;
+    height: 250px;
+    width: 250px;
+    border-radius: 15px;
+    background-color:#f0fff0 ;
+}
+.book-item:hover{
+    background-color: #fff;
+    transition: 0.5s;
+}
+.book-text{
+    padding: 10px 54px;
+}
+.book-text h4{
+    font-size: 19px;
+}
+.book-text p{
+    font-size: 16px;
+    padding-left: 1px;
+    color: gray;
+}
+.text-muted img{
+    width: 20px;
+    margin-right: 10px;
+}
+.text-muted .date{
+    font-size: 15px;
+    margin-right: 38px;
+}
+.text-muted .people{
+    font-size: 15px;
+}
+.ol-heading{
+    text-align: center;
+}
+
+.testimonial img{
+    width: 90%;
+}
+.footer-top{
+    background:#282531;
+    
+}
+.testimonial .t-text{
+    margin-top:28px ;
+}
+.footer-top ul {
+}
+.footer-top ul li {
+    list-style: none;
+}
+.footer-top ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footer-top p{
+    color: white;
+}
+.footer-bottom{
+    text-align: center;
+}
